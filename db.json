@@ -1,6 +1,4 @@
 {
-    "employee" : [
-        {"name":"Chanchal", "age": 23, "status": false},
-        {"name":"Neetu", "age": 22, "status": false}
-    ]
+    "employee" : []
+    
 }
