@@ -1,6 +1,7 @@
 {
     "employee" : [],
     "products" : [],
-    "foodItems": []
+    "foodItems": [],
+    "evaluation": []
     
 }
